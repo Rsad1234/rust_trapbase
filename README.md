@@ -26,3 +26,17 @@ _It is not intended as a best setup_
   * x1
 * Pressure Pad
   * x1
+
+## Items Used
+* High Quality Metal
+  * x110
+* Gears
+  * x3
+* Spring
+  * x1
+* Wood
+  * x150
+* Targeting Computer
+  * x1
+* CCTV Camera
+  * x1
