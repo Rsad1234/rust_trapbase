@@ -9,7 +9,7 @@ _It is not intended as a best setup_
 * Main / Battery Powerline
   * x1
 * Electrical branch
-  * x5
+  * x6
 * Switch
   * x1 | Mainly used for testing
 * Timer
@@ -23,13 +23,13 @@ _It is not intended as a best setup_
 * Door Controller
   * x2
 * Memory Cell
-  * x1
+  * x2
 * Pressure Pad
   * x1
 
 ## Items Used
 * High Quality Metal
-  * x110
+  * x68 || NOT INCLUDING POWERLINE COST
 * Gears
   * x3
 * Spring
